@@ -1,4 +1,5 @@
 Hotel Demand Analysis Report
+
 Introduction:
 This purpose of this analysis is to explore and gain insights from a dataset related to hotel bookings. The dataset includes various attributes such as booking dates, customer information, and hotel preferences. By analyzing this data, we aim to identify key patterns, clean the dataset, detect outliers, and understand correlations among features to support better decision-making in hospitality management.
 
